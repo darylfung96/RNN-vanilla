@@ -6,4 +6,4 @@ To resolve long term memory, a LSTM or a GRU model will improve the performance.
 
 To run:
 
-  python RNN.py
+    python RNN.py
